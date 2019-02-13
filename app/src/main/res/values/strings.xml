@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cryptovity</string>
+    <string name="price_text">PRICE</string>
+    <string name="price_value">$ 0</string>
+    <string name="market_cap_text">MARKET CAP</string>
+    <string name="market_cap_value">$ 0 B</string>
+    <string name="high_text">24 HOUR HIGH</string>
+    <string name="high_value">$ 0</string>
+    <string name="low_text">24 HOUR LOW</string>
+    <string name="low_value">$ 0</string>
+</resources>
